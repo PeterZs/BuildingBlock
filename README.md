@@ -11,7 +11,7 @@ This repository provides the **Stage 1 component-layout generation** code and da
 
 **The original Stage 2 implementation involves proprietary technology and trade secrets and cannot be open-sourced.**
 
-For a lightweight community alternative, you can use ** a frontier LLM coding agent ** to create a reusable skill that **assigns attributes to layout components and assembles a 3D building procedurally with Python and Blender**. We provide a self-contained generation prompt below, rather than a complete skill package.
+For a lightweight community alternative, you can use a frontier LLM coding agent to create a reusable skill that assigns attributes to layout components and assembles a 3D building procedurally with Python and Blender. We provide a self-contained generation prompt below, rather than a complete skill package.
 
 > This community alternative is an independently generated procedural implementation, not a release or exact reproduction of the original Stage 2. It does not recover proprietary assets or guarantee the visual quality or quantitative results reported in the paper.
 
